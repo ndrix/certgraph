@@ -1,0 +1,1 @@
+{"name":"","sub":"CN=OpenVPN Web CA 2018.08.04 12:21:35 CEST server0","exp":"8/1/2028 3:21:35 AM","iss":"CN=OpenVPN Web CA 2018.08.04 12:21:35 CEST server0","children":[{"name":"","sub":"CN=server0","exp":"8/1/2028 3:21:35 AM","ser":"5b657e30","thumb":"bd324964b6bd47ff5088ff29a04219e7b72adf3c"}],"ser":"5b657e2f","thumb":"981acd792d1a773b4eb31163e2fd4f7b47f3e262"}
